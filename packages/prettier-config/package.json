@@ -1,0 +1,13 @@
+{
+  "name": "@jesset/prettier-config",
+  "version": "0.1.0",
+  "main": "index.json",
+  "description": "My personal Prettier config",
+  "author": "Jesset Thomson <jessetpublic@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jessethomson/shared.git",
+    "directory": "packages/prettier-config"
+  }
+}
